@@ -300,19 +300,19 @@ Evaluated batches: `2000` with batch size `1`
 
 ## Visual Comparison Results
 
-These examples are already saved in [`FIne-tuned_ISAID/results_comparison`](./FIne-tuned_ISAID/results_comparison).
+These examples are already saved in [`results_comparison`](./FIne-tuned_ISAID/results_comparison).
 
 ### Example 1
 
-![Comparison example 1](./FIne-tuned_ISAID/results_comparison/compare_0011.png)
+![Comparison example 1](./results_comparison/compare_0011.png)
 
 ### Example 2
 
-![Comparison example 2](./FIne-tuned_ISAID/results_comparison/compare_0059.png)
+![Comparison example 2](./results_comparison/compare_0059.png)
 
 ### Example 3
 
-![Comparison example 3](./FIne-tuned_ISAID/results_comparison/compare_1841.png)
+![Comparison example 3](./results_comparison/compare_1841.png)
 
 Panel order in each visualization:
 
