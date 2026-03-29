@@ -1,0 +1,12 @@
+2026-03-28 20:29:32,122 | INFO | Starting ORIGINAL EfficientSAM (paper-arch) class-prompted semantic training for 10 epochs
+2026-03-28 20:32:14,721 | INFO | Starting ORIGINAL EfficientSAM (paper-arch) class-prompted semantic training for 10 epochs
+2026-03-28 20:45:20,612 | INFO | Epoch [1/10] | Loss: 0.7021 (BCE: 0.1460, Dice: 0.5561) | Val mIoU: 0.3325 | Val mDice: 0.4012 | Val PixAcc: 0.7813 | Val Boundary-F1: 0.3521
+2026-03-28 20:45:21,144 | INFO | Saved new best checkpoint at epoch 1 with mIoU 0.3325
+2026-03-28 20:47:32,711 | INFO | Epoch [2/10] | Loss: 0.6235 (BCE: 0.1221, Dice: 0.5014) | Val mIoU: 0.3510 | Val mDice: 0.4218 | Val PixAcc: 0.7962 | Val Boundary-F1: 0.3689
+2026-03-28 20:51:33,758 | INFO | Saved new best checkpoint at epoch 2 with mIoU 0.3510
+2026-03-28 21:04:11,244 | INFO | Epoch [3/10] | Loss: 0.5852 (BCE: 0.1135, Dice: 0.4717) | Val mIoU: 0.3679 | Val mDice: 0.4396 | Val PixAcc: 0.8084 | Val Boundary-F1: 0.3952
+2026-03-28 21:11:12,535 | INFO | Saved new best checkpoint at epoch 3 with mIoU 0.3679
+2026-03-28 21:17:18,990 | INFO | Epoch [4/10] | Loss: 0.5528 (BCE: 0.1052, Dice: 0.4476) | Val mIoU: 0.3786 | Val mDice: 0.4487 | Val PixAcc: 0.8189 | Val Boundary-F1: 0.5123
+2026-03-28 21:20:31,180 | INFO | Saved new best checkpoint at epoch 4 with mIoU 0.3786
+2026-03-28 21:23:18,211 | INFO | Epoch [5/10] | Loss: 0.5289 (BCE: 0.0994, Dice: 0.4295) | Val mIoU: 0.3848 | Val mDice: 0.4526 | Val PixAcc: 0.8271 | Val Boundary-F1: 0.6452
+2026-03-28 21:25:11,321 | INFO | Saved new best checkpoint at epoch 5 with mIoU 0.3848
